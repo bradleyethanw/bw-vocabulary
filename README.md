@@ -1,2 +1,0 @@
-# visvoc
-GitHub Pages
