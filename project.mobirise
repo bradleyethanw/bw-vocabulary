@@ -29,7 +29,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/headbraincropped-128x141-69.png",
     "noImageResize": "",
     "versionFirst": "3.9.2",
-    "uniqCompNum": 119,
+    "uniqCompNum": 128,
     "versionPublish": "4.5.4",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
@@ -188,7 +188,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILDING THE VISUAL VOCABULARY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#image1-3i\" aria-expanded=\"false\">Awards and Honors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -485,7 +485,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILDING THE VISUAL VOCABULARY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#image1-3i\" aria-expanded=\"false\">Awards and Honors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -704,7 +704,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILDING THE VISUAL VOCABULARY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#image1-3i\" aria-expanded=\"false\">Awards and Honors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "features3",
@@ -1207,7 +1207,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILDING THE VISUAL VOCABULARY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#image1-3i\" aria-expanded=\"false\">Awards and Honors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1409,6 +1409,40 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"home.html#msg-box8-8\" data-toolbar=\"-mbrBtnMove\">Overview of Development</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"home.html#msg-box8-9\" data-toolbar=\"-mbrBtnMove\">Vocabulary and the Brain</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"home.html#msg-box8-a\" data-toolbar=\"-mbrBtnMove\">Additional Resources</a> "
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-9-full-2000x1125-63.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Awards and Honors",
+          "text": "<p>Subheading</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3j"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1517,7 +1551,31 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">BUILDING THE VISUAL VOCABULARY</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"home.html\" aria-expanded=\"true\">Site Map</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#image1-3i\" aria-expanded=\"false\">Awards and Honors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-8\">Overview of Development</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-9\" aria-expanded=\"false\">Vocabulary and the Brain</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-a\">Additional Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"supplement.html\">&nbsp; &nbsp; &nbsp;Supplemental Materials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"resources.html\">&nbsp; &nbsp; &nbsp;Other Online Resources</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contribute.html\">&nbsp; &nbsp; &nbsp;Contribute<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"references.html\">References</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled.001-4-1400x787.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "2018 Winner | PhD. in Educational Neuroscience Research-Based Translation Award<br>Awarded to Bradley E. White, PhD Candidate in Educational Neuroscience at Gallaudet University<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-3i"
         },
         {
           "_styles": {
